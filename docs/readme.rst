@@ -1,1 +1,5 @@
-.. include:: ../README.rst
+=========
+Endpoints
+=========
+
+.. http:get:: /api/v1/
